@@ -1,0 +1,13 @@
+p {
+    text-align: center;
+    background-color: rgb(185, 185, 185);
+    padding: 200px 20px;
+    color: blue;
+    border-radius: 20px;
+}
+
+div {
+    background-color: rgb(85, 82, 82);
+    margin: 20px 50px;
+    border-radius: 20px;
+}

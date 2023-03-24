@@ -1,0 +1,11 @@
+.browser {
+    background: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.browser>h2,
+p {
+    margin: 4px;
+    font-size: 90%;
+}
