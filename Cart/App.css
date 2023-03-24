@@ -1,0 +1,28 @@
+.nav-container {
+  background-color: rgb(199, 202, 204);
+  width: 100%;
+
+  text-align: center;
+}
+
+.AllCart {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+.red {
+  background-color: rgb(234, 82, 82);
+}
+
+.blue {
+  background-color: rgb(92, 85, 222);
+}
