@@ -1,0 +1,52 @@
+.container {
+    background-color: aqua;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container div {
+    background-color: rgb(128, 128, 158);
+    width: 400px;
+    height: 190px;
+    border-radius: 15px;
+}
+
+p {
+    background-color: rgb(148, 151, 153);
+    padding: 50px 50px;
+    margin: 0;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 1.5rem;
+    border-radius: 15px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px 16px;
+    background-color: rgb(30, 30, 238);
+    border-radius: 10px;
+    display: flex;
+    transition: .2s all;
+}
+
+ul li:hover {
+    background-color: rgb(65, 65, 233);
+
+}
+
+ul>li>a {
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: aliceblue;
+}
