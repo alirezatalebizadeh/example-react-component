@@ -43,6 +43,8 @@ body {
 label {
     display: block;
     text-align: right;
+    color: #0e0f0f;
+    font-size: 1.4rem;
 
 }
 
@@ -105,7 +107,7 @@ button {
 
 button:hover {
     box-shadow: none;
-    background-color: #6529f1;
+    background-color: #1986ca;
 }
 
 a {
